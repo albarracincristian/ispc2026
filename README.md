@@ -88,6 +88,7 @@ La fuente de información es una base de datos SQL interna y estructurada.
 - Sabrina Maldonado
 - Julieta Strada
 - Isaías Sudañez
+- Nahuel Espiga
 
 ## Institución
 
