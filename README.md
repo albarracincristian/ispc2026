@@ -8,7 +8,7 @@ Proyecto integrador de la **Tecnicatura en Inteligencia Artificial — ISPC**, o
 -Analista de datos
 -Proyecto integrador
 
-Entrega EVIDENCIA A- CIENCIA DE DATOS
+Entrega EVIDENCIA 1 - CIENCIA DE DATOS
 
 ## 1. Descripción del problema
 
