@@ -22,7 +22,7 @@ Impacto Operativo: Incapacidad de planificar la capacidad del laboratorio (insum
 Objetivo de Ciencia de Datos: Transformar registros transaccionales en un modelo de segmentación de clientes y análisis de series temporales para fidelización y optimización de recursos.
 
 ## 2. Identificación de Fuentes de Datos
-Para este proyecto, la fuente es una Base de Datos Operativa (SQL/Estructurada) interna de la empresa, de la acuál se dispone. Los datos se encuentran disponibles desde JUnio de 2020 con un bache en los años 2023 y 2024 por unapérdida de la BD original. Retoman la continuidad en Marzo de 2025.
+Para este proyecto, la fuente es una Base de Datos Operativa (SQL/Estructurada) interna de la empresa, de la cuál se dispone. Los datos se encuentran disponibles desde JUnio de 2020 con un bache en los años 2023 y 2024 por una pérdida de la BD original. Retoman la continuidad en Marzo de 2025.
 
 Entidades principales identificadas en el Dataset:
 Clientes: ID, Razón Social,CUIT.
