@@ -85,9 +85,9 @@ Se propone desarrollar un **Dashboard de Inteligencia de Clientes y Demanda**, q
 
 ## Organización del equipo
 
-- **Julieta Strada** — Project Manager
+- **Sabrina Maldonado**— Project Manager
 - **Nahuel Espiga** — QA
-- **Sabrina Maldonado** — Business Analyst
+- **Julieta Strada** — Business Analyst
 - **Cristian Albarracín** — Dev / Data Scientist
 - **Juan Calero** — Dev / Data Scientist
 - **Isaías Sudañez** — Dev / Data Scientist
@@ -126,3 +126,4 @@ En desarrollo.
 ## Docente
 **Carlos Charletti**
 **Dianela Accietto**
+**Pratta Nahuel**
