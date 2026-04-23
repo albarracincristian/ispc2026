@@ -8,7 +8,9 @@ Proyecto integrador de la **Tecnicatura en Inteligencia Artificial — ISPC**, o
 -Analista de datos
 -Proyecto integrador
 
-##1- Descripción del problema
+Entrega EVIDENCIA A- CIENCIA DE DATOS
+
+## 1. Descripción del problema
 
 El problema se centra en la fuga de clientes y la falta de previsibilidad de la demanda en un Laboratorio de Análisis Agropecuario. A pesar de contar con registros históricos, la entidad opera de forma reactiva.
 
@@ -19,7 +21,7 @@ Impacto Operativo: Incapacidad de planificar la capacidad del laboratorio (insum
 
 Objetivo de Ciencia de Datos: Transformar registros transaccionales en un modelo de segmentación de clientes y análisis de series temporales para fidelización y optimización de recursos.
 
-##2. Identificación de Fuentes de Datos
+## 2. Identificación de Fuentes de Datos
 Para este proyecto, la fuente es una Base de Datos Operativa (SQL/Estructurada) interna de la empresa, de la acuál se dispone. Los datos se encuentran disponibles desde JUnio de 2020 con un bache en los años 2023 y 2024 por unapérdida de la BD original. Retoman la continuidad en Marzo de 2025.
 
 Entidades principales identificadas en el Dataset:
@@ -27,7 +29,7 @@ Clientes: ID, Razón Social,CUIT.
 Muestras: ID de muestra, Fecha de ingreso, Especie de cultivo (Maní, Soja, Maíz, etc.), Tipo de análisis solicitado (Germinación, Pureza, Vigor).
 Transacciones: costo por muestra, bonificación aplicada, forma de pago.
 
-##3. Primer Análisis del Dataset (Exploratory Data Analysis - EDA)
+## 3. Primer Análisis del Dataset (Exploratory Data Analysis - EDA)
 
 En esta etapa inicial para la materia, debemos proponer las métricas que vamos a calcular para "entender" los datos:
 
