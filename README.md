@@ -8,16 +8,42 @@ Proyecto integrador de la **Tecnicatura en Inteligencia Artificial — ISPC**, o
 -Analista de datos
 -Proyecto integrador
 
-## Descripción
+##1- Descripción del problema
 
-El proyecto surge a partir de una problemática concreta del laboratorio: actualmente no cuenta con una estrategia de seguimiento y fidelización de clientes, ni con información analítica que le permita anticipar la demanda y planificar su capacidad operativa.
+El problema se centra en la fuga de clientes y la falta de previsibilidad de la demanda en un Laboratorio de Análisis Agropecuario. A pesar de contar con registros históricos, la entidad opera de forma reactiva.
 
-Esto genera:
-- pérdida silenciosa de clientes,
-- falta de visibilidad sobre la cartera activa,
-- dificultades para detectar estacionalidad,
-- problemas para planificar recursos y mano de obra,
-- baja capacidad para tomar decisiones basadas en datos.
+Esto gener una baja capacidad para tomar decisiones basadas en datos, generando impactos negativos:
+
+Impacto Económico: Pérdida de ingresos por clientes que dejan de enviar muestras sin ser detectados (Churn). Falta de visibilidad sobre la cartera activa
+Impacto Operativo: Incapacidad de planificar la capacidad del laboratorio (insumos, personal) ante picos estacionales de cultivos como el maní o la soja. Problemas para planificar recursos y mano de obra.
+
+Objetivo de Ciencia de Datos: Transformar registros transaccionales en un modelo de segmentación de clientes y análisis de series temporales para fidelización y optimización de recursos.
+
+##2. Identificación de Fuentes de Datos
+Para este proyecto, la fuente es una Base de Datos Operativa (SQL/Estructurada) interna de la empresa, de la acuál se dispone. Los datos se encuentran disponibles desde JUnio de 2020 con un bache en los años 2023 y 2024 por unapérdida de la BD original. Retoman la continuidad en Marzo de 2025.
+
+Entidades principales identificadas en el Dataset:
+Clientes: ID, Razón Social,CUIT.
+Muestras: ID de muestra, Fecha de ingreso, Especie de cultivo (Maní, Soja, Maíz, etc.), Tipo de análisis solicitado (Germinación, Pureza, Vigor).
+Transacciones: costo por muestra, bonificación aplicada, forma de pago.
+
+##3. Primer Análisis del Dataset (Exploratory Data Analysis - EDA)
+
+En esta etapa inicial para la materia, debemos proponer las métricas que vamos a calcular para "entender" los datos:
+
+A. Análisis de Calidad y Limpieza
+Datos Faltantes: Identificar nulos en campos críticos como "Especie" o "Fecha".
+Consistencia Temporal: Verificar que el rango de fechas sea continuo para no tener "huecos" en el análisis de estacionalidad.
+
+B. Estadísticas Descriptivas (KPIs Iniciales)
+Volumen Total: ¿Cuántas análisis realiza el laboratorio por año/mes? 
+Pareto de Cultivos: Determinar qué especies representan el 80% del volumen.
+Concentración de Clientes: ¿Depende el laboratorio de pocos clientes grandes o de muchos pequeños? 
+Fidelización de clientes: clientes fidelizados vs detractores.
+
+C. Análisis de Estacionalidad (Time Series)
+Visualización de los "picos" de trabajo. Estacionalidad en la demanda.
+
 
 ## Objetivo general
 
