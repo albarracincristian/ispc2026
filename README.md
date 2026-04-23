@@ -1,4 +1,4 @@
-# ISPC 2026 — Proyecto Integrador  
+# ISPC 2026 
 ## Laboratorio de Análisis Agropecuario: Estrategia de fidelización y análisis de demanda
 
 Proyecto integrador de la **Tecnicatura en Inteligencia Artificial — ISPC**, orientado al análisis de datos de un laboratorio de análisis agropecuario para mejorar la fidelización de clientes y la previsibilidad de la demanda.
