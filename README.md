@@ -119,7 +119,7 @@ Se propone desarrollar un **Dashboard de Inteligencia de Clientes y Demanda**, q
 ## Organización del equipo
 
 - **Sabrina Maldonado**— Project Manager
-- **Nahuel Espiga** — QA
+- **Nahuel Espiga** — QA (solo participa en la materia Proyecto integrador)
 - **Julieta Strada** — Business Analyst
 - **Cristian Albarracín** — Dev / Data Scientist
 - **Juan Calero** — Dev / Data Scientist
