@@ -3,6 +3,11 @@
 
 Proyecto integrador de la **Tecnicatura en Inteligencia Artificial — ISPC**, orientado al análisis de datos de un laboratorio de análisis agropecuario para mejorar la fidelización de clientes y la previsibilidad de la demanda.
 
+**Espacios curriculares**
+-Ciencia de datos
+-Analista de datos
+-Proyecto integrador
+
 ## Descripción
 
 El proyecto surge a partir de una problemática concreta del laboratorio: actualmente no cuenta con una estrategia de seguimiento y fidelización de clientes, ni con información analítica que le permita anticipar la demanda y planificar su capacidad operativa.
