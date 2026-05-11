@@ -152,7 +152,6 @@ En desarrollo.
 
 - Cristian Albarracín
 - Juan Calero
-- Nahuel Espiga
 - Sabrina Maldonado
 - Julieta Strada
 - Isaías Sudañez
@@ -161,3 +160,7 @@ En desarrollo.
 **Carlos Charletti**
 **Dianela Accietto**
 **Pratta Nahuel**
+**Salomon Yamil**
+
+LINK A COLAB https://colab.research.google.com/drive/1GdEe4CbxwAsWUt4NmB0V_fLcWaEGSv1A?usp=sharing
+
