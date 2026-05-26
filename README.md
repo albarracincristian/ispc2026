@@ -109,7 +109,7 @@ Se propone desarrollar un **Dashboard de Inteligencia de Clientes y Demanda**, q
 - Cantidad / volumen
 - Ubicación / localidad
 
-## Historias de usuario iniciales
+## Historias de usuario refinadas
 
 HISTORIAS DE USUARIO REFINADAS
 
