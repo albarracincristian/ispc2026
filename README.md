@@ -111,11 +111,23 @@ Se propone desarrollar un **Dashboard de Inteligencia de Clientes y Demanda**, q
 
 ## Historias de usuario iniciales
 
-- **HU-01** Como responsable del laboratorio quiero ver clientes activos y muestras del último mes para priorizar el seguimiento.
-- **HU-02** Como coordinador de RRII quiero ver cultivos analizados por especie y período para segmentar la comunicación.
-- **HU-03** Como analista del laboratorio quiero ver la evolución mensual de muestras para detectar estacionalidad.
-- **HU-04** Como responsable de marketing quiero identificar clientes inactivos de los últimos 3 meses para generar acciones de recuperación.
-- **HU-05** Como director institucional quiero ver un resumen de KPIs del laboratorio para tomar decisiones estratégicas.
+HISTORIAS DE USUARIO REFINADAS
+
+HU-01 · Identificación de clientes frecuentes Como responsable del laboratorio, quiero visualizar un listado de clientes con su volumen de muestras enviadas en un período de tiempo, para identificar a los clientes más frecuentes, priorizar acciones de seguimiento y tomar decisiones comerciales informadas.
+
+HU-02 · Reporte de cultivos por especie y período Como coordinador de Relaciones Institucionales, quiero visualizar un reporte de muestras analizadas agrupadas por especie y período, para identificar las especies con mayor demanda y orientar campañas de comunicación dirigidas a los productores.
+
+HU-03 · Evolución mensual y estacionalidad del volumen de muestras Como analista del laboratorio, quiero visualizar la evolución mensual del volumen de muestras recibidas e identificar patrones de estacionalidad cuando el histórico lo permita, para detectar tendencias en el tiempo y anticipar picos de demanda que ayuden a optimizar la asignación de insumos y personal.
+
+HU-04 · Identificación de clientes inactivos por patrón de envío Como responsable de marketing, quiero identificar a los clientes que no han enviado muestras durante un período superior al ciclo habitual de su cultivo principal, o superior a 90 días cuando ese dato no está disponible, para diseñar acciones de recuperación oportunas y contextualmente relevantes según el perfil productivo de cada cliente.
+
+HU-05 (Épica) · Resumen Ejecutivo Estratégico — Dashboard Institucional HU-05.1 · Indicadores de volumen y facturación mensual Como director institucional, quiero visualizar gráficos mensuales de muestras analizadas e ingresos devengados, para monitorear el nivel de actividad y la facturación del laboratorio.
+
+HU-05.2 · Análisis de crecimiento interanual (YoY) Como director institucional, quiero ver el porcentaje de variación anual del volumen de muestras y de los ingresos, para evaluar el ritmo de crecimiento del laboratorio comparado con el año anterior.
+
+HU-05.3 · Reporte de eficiencia en tiempos de respuesta Como director institucional, quiero consultar el tiempo promedio de entrega de resultados agrupado por especie y tipo de análisis, para medir la eficiencia del laboratorio y garantizar el cumplimiento de los acuerdos de nivel de servicio.
+
+HU-06 · Segmentación estratégica de clientes (Modelo RFM) Como responsable comercial, quiero clasificar la cartera de clientes mediante un modelo que combine Recencia, Frecuencia y Valor Monetario (RFM) durante el ciclo 25/26, para priorizar las acciones de recupero en función del impacto económico real y diseñar estrategias de retención proactivas antes de que los clientes de alto valor abandonen el laboratorio.
 
 ## Organización del equipo
 
