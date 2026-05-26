@@ -132,9 +132,7 @@ HU-06 · Segmentación estratégica de clientes (Modelo RFM) Como responsable co
 ## Organización del equipo
 
 - **Sabrina Maldonado**— Project Manager
-- **Nahuel Espiga** — QA (solo participa en la materia Proyecto integrador)
-- **Julieta Strada** — Business Analyst
-- **Cristian Albarracín** — Dev / Data Scientist
+- **Julieta Strada** — Business Analyst- QA
 - **Juan Calero** — Dev / Data Scientist
 - **Isaías Sudañez** — Dev / Data Scientist
 
